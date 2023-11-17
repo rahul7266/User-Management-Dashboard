@@ -15,9 +15,16 @@ const UserData = [
     },
     {
         id: 3,
-        username: 'Rahul_singh',
-        email: 'rsinghghz@example.com',
-        phone: '7267067745',
+        username: 'rahul_singh',
+        email: 'abds@example.com',
+        phone: '12345674',
+        creationDate: '2023-02-15',
+      },
+      {
+        id: 4,
+        username: 'shyam',
+        email: 'xyz@example.com',
+        phone: '8967437383',
         creationDate: '2023-02-15',
       }
     // Add more users as needed
