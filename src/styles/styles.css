@@ -1,0 +1,43 @@
+
+body {
+    font-family: 'Arial', sans-serif;
+  }
+  
+  .tabs {
+    display: flex;
+    margin-bottom: 20px;
+  }
+  
+  .tabs button {
+    margin-right: 10px;
+    padding: 8px 12px;
+    cursor: pointer;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  table, th, td {
+    border: 1px solid #ddd;
+  }
+  
+  th, td {
+    padding: 10px;
+    text-align: left;
+  }
+  
+  th {
+    background-color: #f2f2f2;
+    font-weight: bold;
+    cursor: pointer;
+  }
+  
+  tr {
+    cursor: pointer;
+  }
+  
+  
+  
